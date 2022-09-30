@@ -23,7 +23,7 @@ Interface do usuário.
   </br>
 </p>
 
-</br>
+</br> 
 
 ### ⌨ Instalação
 Para a utilização é preciso clonar o repositório, instalar as depedências e rodar o projeto.
